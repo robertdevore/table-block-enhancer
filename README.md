@@ -1,2 +1,2 @@
-# table-block-enhancer
-Adds filtering and sorting functionality to the default WordPress Table block.
+# Table Block Enhancer
+Adds filtering and sorting functionality to the default WordPress® Table block.
